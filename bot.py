@@ -137,7 +137,7 @@ def webhook():
         ):
 
             send_message(
-                "Nahhh Niko 😭 watch your mouth, bro."
+                "Nahhh Niko. watch your mouth, geek."
             )
 
             break
@@ -149,16 +149,16 @@ def webhook():
     if niko_message_count % 2 == 0:
 
         stop_messages = [
-            "Yo Niko, chill out bro 😭 STOP sending all these messages.",
-            "Ayo Niko 💀 you talkin' too much, my guy. STOP.",
-            "Niko bro, you gotta relax 😭 STOP flooding the chat.",
+            "Yo Niko, chill out cuh. STOP sending all these damn messages.",
+            "Ayo Niko you talkin' too much, my guy. STOP.",
+            "Niko cuh, you gotta relax STOP flooding the chat g.",
             "Yo Niko, that's enough yappin' for now. STOP.",
-            "Aight Niko, we heard you bro 💀 now STOP.",
-            "Niko my guy, put the phone down 😭 STOP.",
-            "Bro Niko, you stay yappin' 💀 somebody tell this man STOP.",
-            "Yo Niko 😭 respectfully, STOP.",
-            "Niko, gang, we need you to chill with the messages 💀 STOP.",
-            "Ayo Niko, you done said enough bro 😭 STOP."
+            "Aight Niko, we heard you cuh, now STOP.",
+            "Niko my guy, put the phone down. STOP.",
+            "Bro Niko, you stay yappin' somebody tell this man STOP.",
+            "Yo Niko in the name of da hood, STOP.",
+            "Niko, gang, chill with the messages STOP.",
+            "Ayo Niko, you done said enough cuh. STOP."
         ]
 
         send_message(
